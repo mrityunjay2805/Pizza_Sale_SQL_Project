@@ -2,11 +2,11 @@
 #  __Pizza Sales Data Analysis__
 
 ## Assignment Overview :
-This assignment involves analyzing a pizza sales dataset to derive various insights. 
+ ### This assignment involves analyzing a pizza sales dataset to derive various insights. 
 
-The tasks are categorized into three levels of complexity: Basic, Intermediate, and Advanced.
+ ### The tasks are categorized into three levels of complexity: Basic, Intermediate, and Advanced.
 
-Basic:
+#### Basic:
 
 Retrieve the total number of orders placed.
 
@@ -19,7 +19,7 @@ Identify the most common pizza size ordered.
 List the top 5 most ordered pizza types along with their quantities.
 
 
-Intermediate:
+#### Intermediate:
 
 Join the necessary tables to find the total quantity of each pizza category ordered.
 
@@ -31,7 +31,7 @@ Group the orders by date and calculate the average number of pizzas ordered per 
 
 Determine the top 3 most ordered pizza types based on revenue.
 
-Advanced:
+#### Advanced:
 
 Calculate the percentage contribution of each pizza type to total revenue.
 
