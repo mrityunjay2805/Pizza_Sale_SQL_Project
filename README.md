@@ -1,6 +1,7 @@
-Pizza Sales Data Analysis
 
-Assignment Overview :
+#  __Pizza Sales Data Analysis__
+
+## Assignment Overview :
 This assignment involves analyzing a pizza sales dataset to derive various insights. 
 
 The tasks are categorized into three levels of complexity: Basic, Intermediate, and Advanced.
